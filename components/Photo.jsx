@@ -20,7 +20,7 @@ export default function Photo() {
                 }} 
             >
                 <div>
-                    <Image src="/assets/photo3.png" alt="Anowar Hossain" priority quality={100} fill className="object-contain ml-3" />
+                    <Image src="/assets/photo3.png" alt="Anowar Hossain" priority quality={100} fill className="object-contain ml-3 mt-1" />
                 </div>
             </motion.div>
             <motion.svg className="w-[300px] xl:w-[506px] h-[300px] xl:h-[506px]" fill="transparent"
