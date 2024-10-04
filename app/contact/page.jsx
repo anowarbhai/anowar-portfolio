@@ -15,12 +15,12 @@ const info = [
   {
     icon: <FaEnvelope />,
     title: "Email",
-    description: 'your@email.com'
+    description: 'm.anowarbhai@gmail.com'
   },
   {
     icon: <FaMapMarkedAlt />,
     title: "Address",
-    description: 'Your Address'
+    description: 'Gobindaganj, Gaibandha, Dhaka, Bangladesh'
   },
 ]
 
